@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: #dbd9ee;
+}
+.heading{
+    font-size: 31px;
+}
+#mycas1{
+    padding-top: 20px;
+    height: 400px;
+}
